@@ -5,7 +5,5 @@ Scripts used in the paper titled 'Three-Dimensional Motion Capture Data of a Mov
 
 #### rm_name_mat.m
 
-#### Tech_vel_new.m
-
-#### Tech_val_ROM.m
+#### Tech_val_ROM_new.m
 
